@@ -6,9 +6,7 @@ Material para el curso de selección Intro para la Ciencia de Datos del Bootcamp
 ### Contenido
 
 - *Sesión 1 - Teoría*
-  - Tema 1
-  - Tema 2
-  - Tema 3
+  - [Presentacion](https://docs.google.com/presentation/d/e/2PACX-1vSD9hZVjtia2zMHxqvEB4_Blwx7N8vhEVI81wzgdykNczdPsvLCDrMydPb_m9sjHmWvE5XQJN6WKhuv/pub?start=false&loop=false&delayms=3000)
 
 - *Sesion 2 - Práctica*
   - [Ejercicio 1](ejercicios/1.md)
